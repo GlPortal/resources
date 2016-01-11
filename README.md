@@ -9,7 +9,7 @@ See also https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Sources_of_free_3
     * http://opengameart.org/content/pc ( yay BSOD )
     * http://opengameart.org/content/takeyga-keyboard
     * http://www.blendswap.com/blends/view/82108
-    * http://www.blendswap.com/blends/view/82070 (caution: Fan Art!)
+    * http://www.blendswap.com/blends/view/82070
 - Chaotic collection http://opengameart.org/
 - Another collection http://resources.blogscopia.com/category/models/ (everything CC BY 4.0)
 - Notable artists
@@ -44,7 +44,7 @@ See also https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Sources_of_free_3
     * http://opengameart.org/content/bookshelf-1
     * http://www.blendswap.com/blends/view/70219
     * http://www.blendswap.com/blends/view/70039
-    * http://www.blendswap.com/blends/view/69996
+    * http://www.blendswap.com/blends/view/69996 (caution: Fan Art!)
     * http://www.blendswap.com/blends/view/71756
 - Natural exterior
     * http://opengameart.org/content/grass-patch
