@@ -76,3 +76,9 @@ See also https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Sources_of_free_3
 
 ## 2d
 - Solvay Conference https://commons.wikimedia.org/wiki/File:Solvaycolored-2.jpeg
+ 
+## References
+### Radix Logo
+- https://s-media-cache-ak0.pinimg.com/236x/01/fe/21/01fe2172b681de930304b36d2b8c2e49.jpg
+- https://s-media-cache-ak0.pinimg.com/736x/40/91/2b/40912b87927d8316941f9abc9c8ae7e8.jpg
+- http://1.bp.blogspot.com/-mCjxo-h8qqA/T9SGc7c0CUI/AAAAAAAARMQ/LVZOBRSd9BI/s1600/celtic+tree+of+life+meaning+(12).jpg
