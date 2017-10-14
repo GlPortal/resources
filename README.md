@@ -3,6 +3,7 @@
 See also https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Sources_of_free_3D_models and http://www.ogre3d.org/tikiwiki/Free+Resources
 
 ## 3d
+- Tesseract assets by Calinou https://opengameart.org/content/niebs-tesseract-mapmodels
 - Computers
     * http://www.esi.uclm.es/museo/
     * http://opengameart.org/content/laptop
